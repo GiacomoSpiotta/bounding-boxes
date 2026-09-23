@@ -11,3 +11,9 @@ wheels/
 
 output_*/
 esempio_*.json
+# Credenziali
+auth/
+.env
+# Mappe di anonimizzazione con i dati veri
+privato/
+esempi/
